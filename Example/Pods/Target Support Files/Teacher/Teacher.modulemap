@@ -1,0 +1,6 @@
+framework module Teacher {
+  umbrella header "Teacher-umbrella.h"
+
+  export *
+  module * { export * }
+}

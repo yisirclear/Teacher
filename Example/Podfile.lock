@@ -1,0 +1,16 @@
+PODS:
+  - Teacher (0.1.0)
+
+DEPENDENCIES:
+  - Teacher (from `../`)
+
+EXTERNAL SOURCES:
+  Teacher:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Teacher: d4c07c3ab2b3e606ad07ce4fcec1d92e6f235394
+
+PODFILE CHECKSUM: 4bc4a330908125894c878d9c549e9d1c00c31ac2
+
+COCOAPODS: 1.5.3
