@@ -14,6 +14,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (void)helloTeacher;
 
+- (void)sayHello;
+
 @end
 
 NS_ASSUME_NONNULL_END
