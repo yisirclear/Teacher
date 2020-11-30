@@ -19,7 +19,7 @@
 }
 
 - (void)sayHello1 {
-    NSLog(@"sayHello1");
+    NSLog(@"sayHello12232342");
 }
 
 @end
