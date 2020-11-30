@@ -18,4 +18,8 @@
     NSLog(@"sayHello");
 }
 
+- (void)sayHello1 {
+    NSLog(@"sayHello1");
+}
+
 @end
