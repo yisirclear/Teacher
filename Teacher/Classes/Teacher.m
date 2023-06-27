@@ -22,4 +22,9 @@
     NSLog(@"sayHello12232342");
 }
 
+- (void)say {
+    NSLog(@"say");
+}
+
+
 @end
