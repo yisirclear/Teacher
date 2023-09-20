@@ -1,6 +1,6 @@
 {
   "name": "Teacher",
-  "version": "0.1.0",
+  "version": "0.3.7",
   "summary": "A short description of Teacher.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/yisirclear/Teacher",
@@ -9,14 +9,14 @@
     "file": "LICENSE"
   },
   "authors": {
-    "yisirclear": "18738576910@163.com"
+    "yisirclear": "2420702529@qq.com"
   },
   "source": {
     "git": "https://github.com/yisirclear/Teacher.git",
-    "tag": "0.1.0"
+    "tag": "0.3.7"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "11.0"
   },
   "source_files": "Teacher/Classes/**/*"
 }

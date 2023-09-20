@@ -26,5 +26,8 @@
     NSLog(@"say");
 }
 
+- (void)english {
+    NSLog(@"english");
+}
 
 @end

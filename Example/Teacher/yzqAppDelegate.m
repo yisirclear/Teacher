@@ -7,11 +7,15 @@
 //
 
 #import "yzqAppDelegate.h"
+#import <Teacher/Teacher.h>
 
 @implementation yzqAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    
+    Teacher *teacher = [[Teacher alloc] init];
+    [teacher english];
     // Override point for customization after application launch.
     return YES;
 }
